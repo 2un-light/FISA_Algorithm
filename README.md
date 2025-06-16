@@ -5,7 +5,7 @@
 - ⚠️ 문제를 답안을 참고하지 않고 풀도록 노력해주세요. 답지를 보고 베끼는것은 실력향상에 도움이 안됩니다!
 <br></br>
 
-|  | 고재민 | 이예정 | 차은영 | 박찬휘 | 유영민 |
+|  | 고재민 | 이예정 | 차은영 | 박찬휘 | 유영민 | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | GitHub | [![Jaemin-kr](https://github.com/Jaemin-kr.png?width=200px)](https://github.com/Jaemin-kr) | [![SGianna](https://github.com/SGianna.png?width=200px)](https://github.com/SGianna) | [![2un-light](https://github.com/2un-light.png?width=200px)](https://github.com/2un-light) |[![Park-ChanHwi](https://github.com/Park-ChanHwi.png?width=200px)](https://github.com/Park-ChanHwi) |[![YOUNGMIN-YU](https://github.com/YOUNGMIN-YU.png?width=200px)](https://github.com/YOUNGMIN-YU)
 | Language | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=java&logoColor=white">
